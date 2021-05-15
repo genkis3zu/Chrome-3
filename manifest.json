@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "拡張機能サンプル3",
+    "version": "0.0.3",
+    "description": "最小構成" ,
+    "browser_action": {},
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
